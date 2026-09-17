@@ -4,7 +4,7 @@ I'm a Computer Science student at the University at Buffalo, interested in softw
 
 ## 🚀 Currently Building
 
-### JobFit AI
+### [JobFit AI](https://github.com/Programmer-Tiko/JobFit-AI)
 
 A career optimization platform designed to connect a user's evolving skills, projects, and experience with real job requirements.
 
@@ -17,19 +17,19 @@ The project focuses on:
 - Role-targeted resume generation
 
 **Status:** In development  
-**Tech:** Python · FastAPI · PostgreSQL · JavaScript
+**Planned MVP Stack:** Python · FastAPI · PostgreSQL · JavaScript
 
-> The public JobFit AI repository will showcase the product, architecture, and development progress while the implementation code remains private.
+> Explore the public [JobFit AI repository](https://github.com/Programmer-Tiko/JobFit-AI) for the product vision, development roadmap, and project progress. Implementation code is currently maintained privately.
 
 ## 💻 Technical Focus
 
-- Backend & full-stack web development
+- Backend & web application development
 - REST APIs and web systems
 - Databases and data-driven applications
 - AI-enabled software
 - Data structures and algorithms
 
-## 🛠 Technologies
+## 🛠 Working With
 
 **Languages:** Python · JavaScript  
 **Backend:** FastAPI  
